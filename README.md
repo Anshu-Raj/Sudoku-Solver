@@ -4,8 +4,8 @@ This is a simple sudoku solver program I originally created to solve Project Eul
 But then, tweaked it to solve any sudoku(As long as it's valid and has only one possible solution) <br>
 Just a simple project for the weekend :) <br>
 This program uses console input not a fancy GUI. <br>
-So, to input a valid sudoku to the program use 0 instead of blank spaces<br>
-Refer to sample folder of the project to view sample input and it's output<br>
+So, to input a valid sudoku to the program use 0 instead of blank spaces. (Input has 9 columns with 9 digits in every row)<br>
+Refer to **Sample folder** of the project to view sample input and it's output<br>
 # Sample Input:
 java -jar "C:\SuDoku.jar" <br>
 Enter your 9X9 Sudoku here :<br>
